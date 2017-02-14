@@ -1,0 +1,17 @@
+body{
+	background-color: grey;
+}
+main{
+	width: 600px;
+}
+input{
+	width: 100px;
+	height: 80px;
+	margin-top: 10px;
+	margin-right: -5px;
+	border: 2px solid black;
+	font-size: 40px;
+	text-align: center;
+
+	
+}
